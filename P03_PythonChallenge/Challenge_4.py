@@ -10,6 +10,7 @@ except ImportError:
 url = "http://www.pythonchallenge.com/pc/def/linkedlist.php?nothing=12345" # i up to the 84
 url = "http://www.pythonchallenge.com/pc/def/linkedlist.php?nothing=8022"
 url = "http://www.pythonchallenge.com/pc/def/linkedlist.php?nothing=63579"
+url = "http://www.pythonchallenge.com/pc/def/linkedlist.php?nothing=46145" #Ch6
 
 i = 0
 while i < 400:
